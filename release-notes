@@ -1,0 +1,10 @@
+This is combination of Factory-design-pattern and object-pool-design 
+
+we create factory for browser Type 
+Chrome
+firefox 
+
+we create the object-pool  for 
+ 1) driver creation
+ 2) release driver
+ 
